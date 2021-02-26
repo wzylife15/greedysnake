@@ -1,0 +1,4 @@
+﻿  greedysnake-wzy.c
+d:\git\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  greedynake-wzy.vcxproj -> D:\git\greedynake-wzy\x64\Debug\greedynake-wzy.exe
+  greedynake-wzy.vcxproj -> D:\git\greedynake-wzy\x64\Debug\greedynake-wzy.pdb (Partial PDB)

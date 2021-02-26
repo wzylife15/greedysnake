@@ -1,0 +1,43 @@
+﻿  greedysnake-wzy.c
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(11): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(47): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(51): warning C4047: “函数”:“DWORD”与“HANDLE”的间接级别不同
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(51): warning C4024: “GetStdHandle”: 形参和实参 1 的类型不同
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(51): warning C4020: “GetStdHandle”: 实参太多
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(51): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(51): error C2198: “SetConsoleCursorPosition”: 用于调用的参数太少
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(60): warning C4047: “函数”:“DWORD”与“HANDLE”的间接级别不同
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(60): warning C4024: “GetStdHandle”: 形参和实参 1 的类型不同
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(60): warning C4020: “GetStdHandle”: 实参太多
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(60): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(60): error C2198: “SetConsoleCursorPosition”: 用于调用的参数太少
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(65): warning C4047: “函数”:“DWORD”与“HANDLE”的间接级别不同
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(65): warning C4024: “GetStdHandle”: 形参和实参 1 的类型不同
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(65): warning C4020: “GetStdHandle”: 实参太多
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(65): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(65): error C2198: “SetConsoleCursorPosition”: 用于调用的参数太少
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(78): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(98): warning C4013: “init”未定义；假设外部返回 int
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(113): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(115): error C2059: 语法错误:“&&”
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(121): error C2059: 语法错误:“&&”
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(130): error C2374: “lastX”: 重定义；多次初始化
+  c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\snake.h(31): note: 参见“lastX”的声明
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(130): error C2099: 初始值设定项不是常量
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(131): error C2374: “lastY”: 重定义；多次初始化
+  c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\snake.h(32): note: 参见“lastY”的声明
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(131): error C2099: 初始值设定项不是常量
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(133): error C2059: 语法错误:“for”
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(133): error C2143: 语法错误: 缺少“{”(在“>”的前面)
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(133): error C2059: 语法错误:“>”
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(133): error C2143: 语法错误: 缺少“{”(在“--”的前面)
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(133): error C2059: 语法错误:“--”
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(133): error C2059: 语法错误:“)”
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(138): error C2143: 语法错误: 缺少“{”(在“.”的前面)
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(138): error C2059: 语法错误:“.”
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(139): error C2143: 语法错误: 缺少“{”(在“.”的前面)
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(139): error C2059: 语法错误:“.”
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(140): error C2373: “Sleep”: 重定义；不同的类型修饰符
+  c:\program files (x86)\windows kits\8.1\include\um\synchapi.h(908): note: 参见“Sleep”的声明
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(142): error C2059: 语法错误:“return”
+c:\users\asus\documents\visual studio 2015\projects\greedynake-wzy\greedynake-wzy\greedysnake-wzy.c(143): error C2059: 语法错误:“}”
